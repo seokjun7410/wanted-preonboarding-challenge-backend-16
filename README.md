@@ -1,3 +1,6 @@
+# 코드리뷰 경험
+https://github.com/jinho-yoo-jack/wanted-preonboarding-challenge-backend-16/pull/22
+
 # 도메인 다이어그램
 <img width="766" alt="스크린샷 2024-02-01 오전 1 41 05" src="https://github.com/jinho-yoo-jack/wanted-preonboarding-challenge-backend-16/assets/47974623/0d71fd13-9b9f-46da-aa1d-9ec2c66294f3">
 
